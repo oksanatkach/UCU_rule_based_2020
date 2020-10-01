@@ -1,0 +1,23 @@
+Town dedicates memorial garden to school massacre victims
+<b_enamex type="LOCATION">DUNBLANE<e_enamex>, <b_enamex type="LOCATION">Scotland<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ Townspeople dedicated a garden
+<b_timex type="DATE">Saturday<e_timex> in memory of <b_numex type="CARDINAL">16<e_numex> children and a teacher killed by a
+suicidal gunman <b_timex type="DURATION">two years<e_timex> ago.
+	   ``This garden is a beautiful place in which we can all remember
+the loved ones we lost,'' said <b_enamex type="PERSON">Mick North<e_enamex>, whose daughter <b_enamex type="PERSON">Sophie<e_enamex>
+was among the slain children.
+	   ``The cheerfulness and brightness of a Primary One classroom is
+evoked by each <b_numex type="CARDINAL">one<e_numex> of the pebbles in the pools, you can almost hear
+the chatter of children in the sound of the fountain,'' he said at
+the dedication ceremony.
+	   A local man, <b_numex type="MEASURE">43-year<e_numex>-old <b_enamex type="PERSON">Thomas Hamilton<e_enamex>, barged into the
+primary school on <b_timex type="DATE">March 13, 1996<e_timex> and opened fire on a class in the
+gym. In addition to those killed, he injured <b_numex type="CARDINAL">12<e_numex> other children and
+<b_numex type="CARDINAL">two<e_numex> teachers before killing himself.
+	   <b_enamex type="LOCATION">Britain<e_enamex> has since banned handgun ownership.
+	   The memorial garden, designed by the victims' families, features
+a bronze plaque with the names of the dead, a cherry tree and a
+variety of flowers.
+	   Another memorial to the <b_enamex type="LOCATION">Dunblane<e_enamex> victims, a sculpture of stone
+and wood, is to be unveiled <b_timex type="DATE">April 5<e_timex> in the <b_enamex type="LOCATION">National Forest<e_enamex> in
+northern <b_enamex type="LOCATION">England<e_enamex>.
+	   (rb)

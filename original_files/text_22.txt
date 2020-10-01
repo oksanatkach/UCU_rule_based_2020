@@ -1,0 +1,56 @@
+<b_enamex type="LOCATION">Lebanon<e_enamex> marks <b_timex type="DURATION">20 years<e_timex> of Israeli occupation with attacks, rallies
+<b_enamex type="LOCATION">BEIRUT<e_enamex>, <b_enamex type="LOCATION">Lebanon<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ Lebanese guerrillas attacked Israeli
+forces in southern <b_enamex type="LOCATION">Lebanon<e_enamex> on <b_timex type="DATE">Saturday<e_timex> while civilians flocked to
+rallies around the country to mark <b_timex type="DURATION">20 years<e_timex> of Israeli occupation.
+	   <b_enamex type="LOCATION">Lebanon<e_enamex>'s president, prime minister and national assembly
+speaker held talks with Syrian leaders in <b_enamex type="LOCATION">Damascus<e_enamex> on <b_enamex type="LOCATION">Israel<e_enamex>'s
+proposal to withdraw its <b_numex type="CARDINAL">1,500<e_numex> troops from southern <b_enamex type="LOCATION">Lebanon<e_enamex>.
+	   The talks were seen as aimed at coordinating the Lebanese and
+Syrian views ahead of a visit by <b_enamex type="ORGANIZATION">U.N.<e_enamex> Secretary General <b_enamex type="PERSON">Kofi Annan<e_enamex>.
+Both <b_enamex type="LOCATION">Beirut<e_enamex> and <b_enamex type="LOCATION">Damascus<e_enamex> have already rejected <b_enamex type="LOCATION">Jerusalem<e_enamex>'s
+proposal, which makes a withdrawal conditional on Lebanese
+guarantees that guerrillas would not attack northern <b_enamex type="LOCATION">Israel<e_enamex>.
+	   Guerrillas of the Iranian-backed <b_enamex type="ORGANIZATION">Hezbollah<e_enamex> group mounted attacks
+on positions of Israeli troops and their allied Lebanese militiamen
+in the occupied zone, Lebanese officials said. There was no word on
+casualties.
+	   <b_enamex type="ORGANIZATION">Hezbollah<e_enamex> and the <b_enamex type="ORGANIZATION">Hezbollah<e_enamex>-backed <b_enamex type="ORGANIZATION">Lebanese Resistance Brigades<e_enamex>
+said in statements issued here that their guerrillas had attacked
+positions at <b_enamex type="LOCATION">Sojod<e_enamex>, <b_enamex type="LOCATION">Hardon<e_enamex>, <b_enamex type="LOCATION">Baarchit<e_enamex>, <b_enamex type="LOCATION">Hadatha<e_enamex> and <b_enamex type="LOCATION">Soweida<e_enamex>.
+	   <b_numex type="CARDINAL">Thousands<e_numex> turned out for rallies in <b_enamex type="LOCATION">Beirut<e_enamex>, and the cities of
+<b_enamex type="LOCATION">Sidon<e_enamex> and <b_enamex type="LOCATION">Tyre<e_enamex> and the town of <b_enamex type="LOCATION">Nabatiyeh<e_enamex> in the south.
+	   In <b_enamex type="LOCATION">Sidon<e_enamex>, the capital of southern <b_enamex type="LOCATION">Lebanon<e_enamex>, local politicians
+such as the prime minister's sister, legislator <b_enamex type="PERSON">Bahia Hariri<e_enamex>,
+denounced <b_enamex type="LOCATION">Israel<e_enamex>'s occupation and called for the implementation of
+<b_enamex type="ORGANIZATION">U.N. Security Council<e_enamex> Resolution 425. Passed in <b_timex type="DATE">1978<e_timex>, the
+resolution calls on <b_enamex type="LOCATION">Israel<e_enamex> to withdraw its forces from <b_enamex type="LOCATION">Lebanon<e_enamex>.
+	   Speakers vowed that guerrillas would continue their
+``resistance'' against Israeli forces until the occupation ended.
+	   In <b_enamex type="LOCATION">Beirut<e_enamex>, legislator <b_enamex type="PERSON">Mohammed Beydoun<e_enamex>, warned the crowd that
+<b_enamex type="LOCATION">Israel<e_enamex> might attack <b_enamex type="LOCATION">Lebanon<e_enamex> again ``with the aim of torpedoing
+resolution 425.''
+	   A group calling itself the <b_enamex type="ORGANIZATION">March 14 Solidarity Day with Occupied
+Southern Lebanon<e_enamex> published a full-page advertisement in <b_enamex type="ORGANIZATION">The Daily
+Star<e_enamex> which described the world's failure to make <b_enamex type="LOCATION">Israel<e_enamex> comply with
+resolution 425 as a ``record of disgrace.''
+	   It was on <b_timex type="DATE">March 14, 1978<e_timex>, that some <b_numex type="CARDINAL">25,000<e_numex> Israeli troops
+invaded south <b_enamex type="LOCATION">Lebanon<e_enamex> in a campaign against Palestinian guerrillas,
+who had attacked a town in northern <b_enamex type="LOCATION">Israel<e_enamex>. <b_timex type="DURATION">Five days<e_timex> later, the
+<b_enamex type="ORGANIZATION">Security Council<e_enamex> adopted Resolution 425.
+	   Huge yellow banners hung across intersections in <b_enamex type="LOCATION">Beirut<e_enamex> where
+motorists strung yellow ribbons from their aerials. In <b_enamex type="LOCATION">Lebanon<e_enamex>,
+yellow is the symbol of support for resolution 425.
+	   In the eastern city of <b_enamex type="LOCATION">Baalbek<e_enamex>, government buildings sported
+yellow banners and <b_enamex type="ORGANIZATION">Hezbollah<e_enamex> supporters roamed the streets
+soliciting funds for ``the resistance.'' Outside the city,
+<b_enamex type="ORGANIZATION">Hezbollah<e_enamex> activists burned <b_enamex type="LOCATION">Israel<e_enamex>'s flag on the main road.
+	   <b_numex type="CARDINAL">Thousands<e_numex> of Lebanese civilians and militants and nearly <b_numex type="CARDINAL">900<e_numex>
+Israeli soldiers have been killed since <b_timex type="DATE">1978<e_timex>. Since <b_timex type="DATE">1985<e_timex> <b_enamex type="LOCATION">Israel<e_enamex> has
+occupied a strip of land along the border amounting to <b_numex type="PERCENT">10 percent<e_numex>
+of Lebanese territory.
+	   <b_enamex type="LOCATION">Israel<e_enamex>, which maintains the strip with some <b_numex type="CARDINAL">2,500<e_numex> local
+militiamen, says the zone is a necessary buffer against guerrilla
+attacks. But increasing casualties _ a record <b_numex type="CARDINAL">39<e_numex> Israeli troops
+were killed in action in <b_enamex type="LOCATION">Lebanon<e_enamex> last <b_timex type="DURATION">year<e_timex> _ have generated
+grassroots pressure among Israelis for the government to make a
+unilateral withdrawal.

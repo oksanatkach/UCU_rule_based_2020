@@ -1,0 +1,23 @@
+<b_enamex type="ORGANIZATION">Army<e_enamex> deployed to fight fires in rainforest
+<b_enamex type="LOCATION">GEORGETOWN<e_enamex>, <b_enamex type="LOCATION">Guyana<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ The <b_enamex type="ORGANIZATION">Second Army Batallion<e_enamex> will be sent
+to this South American country's Amazonian rainforest to help fight
+forest fires resulting from an El Nino-fueled drought, the
+government announced <b_timex type="DATE">Saturday<e_timex>.
+	   Soldiers will join firefighters and <b_enamex type="ORGANIZATION">Forestry Commission<e_enamex> rangers
+in trying to contain the blazes, which have been burning for a
+<b_timex type="DURATION">month<e_timex> in the southern and western parts of the country.
+	   If the local teams are unable to control the fires, <b_enamex type="LOCATION">Guyana<e_enamex> may
+look beyond its borders for assistance.
+	   ``The situation is not so good,'' said <b_enamex type="ORGANIZATION">Forestry<e_enamex> Minister <b_enamex type="PERSON">Satydeo
+Sawh<e_enamex>. ``The fires are raging and we may need help.''
+	   <b_enamex type="LOCATION">Guyana<e_enamex>, on the northeast shoulder of <b_enamex type="LOCATION">South America<e_enamex>, has been
+suffering a prolonged dry spell, blamed on El Nino-caused changes
+in the weather pattern, since <b_timex type="DATE">July<e_timex>. Now, in the height of the dry
+season, the forests are susceptible to fire and significant
+rainfall is unlikely before <b_timex type="DATE">June<e_timex>.
+	   The lack of rainfall has already affected such varied industries
+as rice farming and gold mining.
+	   Some of the <b_numex type="CARDINAL">35,000<e_numex> residents of the bauxite mining town of
+<b_enamex type="LOCATION">Linden<e_enamex>, <b_numex type="MEASURE">70 miles<e_numex> (<b_numex type="MEASURE">113 kilometers<e_numex>) south of <b_enamex type="LOCATION">Georgetown<e_enamex>, say the
+smoke is beginning to affect them. Residents are normally bothered
+by the dust pollution from the mining.

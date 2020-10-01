@@ -1,0 +1,25 @@
+Man seriously hurt in blast in northern <b_enamex type="LOCATION">Israel<e_enamex>
+<b_enamex type="LOCATION">JERUSALEM<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ A man was seriously injured <b_timex type="DATE">Saturday<e_timex> in an
+explosion outside the bus station in the small northern Israeli
+town of <b_enamex type="LOCATION">Afula<e_enamex>, an ambulance official said.
+	   The blast blew off both the man's hands, Israeli <b_enamex type="ORGANIZATION">army<e_enamex> radio
+quoted <b_enamex type="PERSON">Eli Bin<e_enamex>, deputy head of the <b_enamex type="LOCATION">Afula<e_enamex> ambulance station, as
+saying. The man appeared to be in his early <b_numex type="MEASURE">50s<e_numex>, the radio said.
+	   Police said the explosion took place in a public park just
+outside the bus station.
+	   Before the man was taken into surgery, he said he had spotted a
+cardboard box that he thought looked suspicious and was examining
+it when it exploded, <b_enamex type="ORGANIZATION">army<e_enamex> radio said.
+	   Israeli police frequently tell people to be on the alert for
+suspicious objects that might be bombs planted by Palestinian
+militant groups. However, police always urge the public not to
+touch any such objects, but to report them to the nearest police
+station.
+	   The <b_enamex type="LOCATION">Afula<e_enamex> bus station was the scene of a major terror attack in
+<b_timex type="DATE">April 1994<e_timex>, when a car rigged with explosives blew up, killing <b_numex type="CARDINAL">nine<e_numex>
+people and injuring <b_numex type="CARDINAL">45<e_numex>. The militant Muslim group <b_enamex type="ORGANIZATION">Hamas<e_enamex> claimed
+responsibility.
+	   When <b_timex type="DATE">Saturday<e_timex>'s blast occurred, however, the bus station was
+nearly deserted. There is no public transport in most Israeli
+cities on the <b_timex type="DATE" alt="Sabbath">Jewish Sabbath<e_timex>, which begins at <b_timex type="TIME">sundown<e_timex> <b_timex type="DATE">Friday<e_timex> and
+ends at <b_timex type="TIME">sundown<e_timex> on <b_timex type="DATE">Saturday<e_timex>.

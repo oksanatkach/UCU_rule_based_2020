@@ -1,0 +1,12 @@
+<b_enamex type="PERSON">Niemann<e_enamex> breaks women's world <b_numex type="MEASURE">3,000-meter<e_numex> speedskating record
+<b_enamex type="LOCATION">HEERENVEEN<e_enamex>, <b_enamex type="LOCATION">Netherlands<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="LOCATION">Germany<e_enamex>'s <b_enamex type="PERSON">Gunda Niemann<e_enamex> smashed
+the <b_numex type="MEASURE">3,000-meter<e_numex> speedskating world record <b_timex type="DATE">Saturday<e_timex> in a time of <b_timex type="DURATION">4
+minutes 5.08 seconds<e_timex>, shattering the old record of fellow German
+<b_enamex type="PERSON">Claudia Pechstein<e_enamex> which stood at <b_timex type="DURATION">4:07.13<e_timex>.
+	   <b_enamex type="PERSON">Niemann<e_enamex> began her race calmly and picked up pace in the middle
+laps before accelerating to the new record in the closing <b_numex type="CARDINAL">two<e_numex> laps
+at the indoor <b_enamex type="ORGANIZATION" status="opt">Thialf ice stadium<e_enamex>.
+	   Racing in the next pair, <b_enamex type="PERSON">Pechstein<e_enamex> skated <b_timex type="DURATION">4:07.36<e_timex> for second
+place in the race, a time that left her second to <b_enamex type="PERSON">Niemann<e_enamex> in the
+all-round championship with just <b_timex type="DATE">Sunday<e_timex>'s <b_numex type="MEASURE">5,000-meter<e_numex> race left.
+	   (mc)

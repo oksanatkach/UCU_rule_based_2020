@@ -1,0 +1,20 @@
+Fire tears through new <b_enamex type="LOCATION">St. Petersburg<e_enamex> building
+<b_enamex type="LOCATION">MOSCOW<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ Fire-fighters battled <b_timex type="DURATION">7 hours<e_timex> <b_timex type="DATE">Saturday<e_timex> to
+extinguish a blaze that raced through a newly constructed office
+building in <b_enamex type="LOCATION">St. Petersburg<e_enamex>, according to media reports.
+	   No injuries were reported in the fire, but <b_numex type="PERCENT">40 percent<e_numex> of the
+building was destroyed, the <b_enamex type="ORGANIZATION">ITAR-Tass<e_enamex> news agency said. The top <b_numex type="CARDINAL">six<e_numex>
+floors of the <b_numex type="MEASURE">14-story<e_numex> building were completely gutted and the
+lower floors were inundated with water sprayed from the <b_numex type="CARDINAL">52<e_numex>
+fire-trucks working at the scene.
+	   No monetary estimate for the damage was given
+	   Construction of the glass-and-concrete building, which houses
+<b_enamex type="LOCATION">St. Petersburg<e_enamex>'s <b_enamex type="ORGANIZATION">Institute of Urban Studies<e_enamex>, a furniture showroom
+and other businesses, was completed just last <b_timex type="DATE">summer<e_timex>.
+	   Investigators are working on the theory that the fire was caused
+by an electric heater, <b_enamex type="ORGANIZATION">ITAR-Tass<e_enamex> reported, citing police Gen. Maj.
+<b_enamex type="PERSON">Anatoly Ponidelko<e_enamex>.
+	   The city's steam-heating system in the neighborhood had been cut
+off <b_timex type="DURATION">several days<e_timex> ago for non-payment of utility bills, Russian
+state television said.
+	   (ji)
