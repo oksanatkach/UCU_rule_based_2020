@@ -1,0 +1,20 @@
+<b_enamex type="LOCATION">Georgia<e_enamex> and <b_enamex type="LOCATION">Turkey<e_enamex> announced start of oil project
+<b_enamex type="LOCATION">TBILISI<e_enamex>, <b_enamex type="LOCATION">Georgia<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="LOCATION">Georgia<e_enamex> and <b_enamex type="LOCATION">Turkey<e_enamex> signed an accord on
+<b_timex type="DATE">Saturday<e_timex> launching a cooperative project to transport oil from
+<b_enamex type="LOCATION">Azerbaijan<e_enamex>'s <b_enamex type="LOCATION">Caspian<e_enamex> oil fields across <b_enamex type="LOCATION">Georgia<e_enamex> to <b_enamex type="LOCATION">Turkey<e_enamex>.
+	   <b_numex type="CARDINAL">Five<e_numex> oil-producing countries of the <b_enamex type="LOCATION">Caspian Sea<e_enamex> region had
+approved the route earlier this month.
+	   The agreement, which will include the construction of a
+Trans-Caucasian pipeline, was signed <b_timex type="DATE">Saturday<e_timex> by Georgian President
+<b_enamex type="PERSON">Eduard Shevardnadze<e_enamex> and Prime Minister <b_enamex type="PERSON">Mesut Yilmaz<e_enamex> of <b_enamex type="LOCATION">Turkey<e_enamex>.
+	   <b_enamex type="LOCATION">Turkey<e_enamex> has long campaigned for a pipeline running from
+<b_enamex type="LOCATION">Azerbaijan<e_enamex>'s capital <b_enamex type="LOCATION">Baku<e_enamex> through <b_enamex type="LOCATION">Georgia<e_enamex> to the Turkish
+<b_enamex type="LOCATION">Mediterranean<e_enamex> port of <b_enamex type="LOCATION">Ceyhan<e_enamex>.
+	   <b_enamex type="LOCATION">Turkey<e_enamex>'s strongest competitor is <b_enamex type="LOCATION">Russia<e_enamex>, which has been vying
+for pipelines to traverse its territory as well. The first oil from
+<b_enamex type="LOCATION">Azerbaijan<e_enamex> started flowing through a Russian pipeline last <b_timex type="DATE">fall<e_timex>.
+	   On <b_timex type="DATE">Friday<e_timex>, <b_enamex type="LOCATION">Georgia<e_enamex> and <b_enamex type="LOCATION">Turkey<e_enamex> signed inter-governmental accords
+on border cooperation in the <b_enamex type="LOCATION">Black Sea<e_enamex> and exchange programs in
+sport, education, science and culture, the <b_enamex type="ORGANIZATION">ITAR-Tass<e_enamex> news agency
+reported.
+	   (pvs/ji)

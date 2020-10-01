@@ -1,0 +1,40 @@
+<b_enamex type="PERSON">Niemann<e_enamex> breaks women's world <b_numex type="MEASURE">3,000-meter<e_numex> speedskating record
+<b_enamex type="LOCATION">HEERENVEEN<e_enamex>, <b_enamex type="LOCATION">Netherlands<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="LOCATION">Germany<e_enamex>'s <b_enamex type="PERSON">Gunda Niemann<e_enamex> smashed
+the <b_numex type="MEASURE">3,000-meter<e_numex> speedskating world record <b_timex type="DATE">Saturday<e_timex> in a time of <b_timex type="DURATION">4
+minutes 5.08 seconds<e_timex>, shattering the old record of fellow German
+<b_enamex type="PERSON">Claudia Pechstein<e_enamex> which stood at <b_timex type="DURATION">4:07.13<e_timex>.
+	   <b_enamex type="PERSON">Niemann<e_enamex> began her race calmly and picked up pace in the middle
+laps before accelerating to the new record in the closing <b_numex type="CARDINAL">two<e_numex> laps
+at the indoor <b_enamex type="ORGANIZATION" status="opt">Thialf ice stadium<e_enamex>.
+	   Racing in the next pair, <b_enamex type="PERSON">Pechstein<e_enamex> skated <b_timex type="DURATION">4:07.36<e_timex> for second
+place in the race, a time that left her second to <b_enamex type="PERSON">Niemann<e_enamex> in the
+all-round championship with just <b_timex type="DATE">Sunday<e_timex>'s <b_numex type="MEASURE">5,000-meter<e_numex> race left.
+	   A third German, <b_enamex type="PERSON">Anni Friesinger<e_enamex>, was third in the <b_numex type="MEASURE">3,000 meters<e_numex>
+in a time of <b_timex type="DURATION">4:11.57<e_timex>.
+	   ``This is such a great tournament. Lots of people are skating
+personal bests and that motivated me,'' <b_enamex type="PERSON">Niemann<e_enamex> said.
+	   Earlier <b_timex type="DATE">Saturday<e_timex>, reigning men's world all-round champion <b_enamex type="PERSON">Ids
+Postma<e_enamex> of the <b_enamex type="LOCATION">Netherlands<e_enamex> virtually guaranteed he will retain his
+title by narrowly beating Dutch rival <b_enamex type="PERSON">Rintje Ritsma<e_enamex> in a thrilling
+<b_numex type="MEASURE">1,500-meter<e_numex> race.
+	   Drawn together in the race's last pairing, <b_enamex type="PERSON">Postma<e_enamex> clocked
+<b_timex type="DURATION">1:48.85<e_timex> to edge <b_enamex type="PERSON">Ritsma<e_enamex>'s time of <b_timex type="DURATION">1:48.86<e_timex> and complete a sweep of
+the first <b_numex type="CARDINAL">three<e_numex> of races in the <b_numex type="MEASURE">four-distance<e_numex> all-round
+championship.
+	   ``It was a great fight,'' <b_enamex type="PERSON">Postma<e_enamex> said. ``The (time) difference
+was actually nothing.''
+	   <b_enamex type="PERSON">Ritsma<e_enamex> conceded that the title is now almost certainly out of
+his reach.
+	   With just <b_timex type="DATE">Sunday<e_timex>'s <b_numex type="MEASURE">10,000-meter<e_numex> race to go, the difference in
+the men's cumulative times ``is enough for <b_enamex type="PERSON">Ids<e_enamex>,'' <b_enamex type="PERSON">Ritsma<e_enamex> said.
+	   ``He will have to do something very strange and I will have to
+do something very strange'' for <b_enamex type="PERSON">Postma<e_enamex> not to win the all-round
+title, <b_enamex type="PERSON">Ritsma<e_enamex> added.
+	   Italian veteran <b_enamex type="PERSON">Roberto Sighel<e_enamex> was third in the <b_numex type="MEASURE">1,500<e_numex> race in
+<b_timex type="DURATION">1:51.19<e_timex>.
+	   In the day's first race, the women's <b_numex type="MEASURE">1,500 meters<e_numex>, defending
+all-round champion <b_enamex type="PERSON">Niemann<e_enamex> also pushed <b_enamex type="PERSON">Pechstein<e_enamex> into second,
+powering to victory in <b_timex type="DURATION">1:58.69 seconds<e_timex>.
+	   <b_enamex type="LOCATION">U.S.<e_enamex> skater <b_enamex type="PERSON">Chris Witty<e_enamex> also ducked under the <b_timex type="DURATION">two-minute<e_timex> mark to
+land third place in <b_timex type="DURATION">1:59.46<e_timex>.
+	   (mc)

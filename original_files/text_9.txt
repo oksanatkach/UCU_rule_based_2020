@@ -1,0 +1,12 @@
+<b_enamex type="PERSON">Prinosil<e_enamex> beats <b_enamex type="PERSON">Siemerink<e_enamex> to make it to the final
+<b_enamex type="LOCATION">COPENHAGEN<e_enamex>, <b_enamex type="LOCATION">Denmark<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="LOCATION">Germany<e_enamex>'s <b_enamex type="PERSON">David Prinosil<e_enamex> booked a
+place in the final of the <b_numex type="MONEY">dlrs 210,000<e_numex> Copenhagen Open on <b_timex type="DATE">Saturday<e_timex>
+by beating No. 4 seed <b_enamex type="PERSON">Jan Siemerink<e_enamex> of the <b_enamex type="LOCATION">Netherlands<e_enamex> <b_numex type="CARDINAL">6<e_numex>-<b_numex type="CARDINAL">3<e_numex>, <b_numex type="CARDINAL">7<e_numex>-<b_numex type="CARDINAL">6<e_numex>
+(<b_numex type="CARDINAL">7<e_numex>-<b_numex type="CARDINAL">5<e_numex>).
+	   In the other semifinal, second seed <b_enamex type="PERSON">Magnus Gustafsson<e_enamex> of <b_enamex type="LOCATION">Sweden<e_enamex>
+beat <b_enamex type="PERSON">Kenneth Carlsen<e_enamex> of <b_enamex type="LOCATION">Denmark<e_enamex> <b_numex type="CARDINAL">6<e_numex>-<b_numex type="CARDINAL">4<e_numex>, <b_numex type="CARDINAL">5<e_numex>-<b_numex type="CARDINAL">7<e_numex>, <b_numex type="CARDINAL">6<e_numex>-<b_numex type="CARDINAL">2<e_numex>.
+	   <b_enamex type="PERSON">Prinosil<e_enamex> played a consistent game to defeat the poorly serving
+<b_enamex type="PERSON">Siemerink<e_enamex>. Earlier in the tournament, the <b_numex type="MEASURE">25-year<e_numex>-old German had
+eliminated top seeded <b_enamex type="PERSON">Thomas Johansson<e_enamex> of <b_enamex type="LOCATION">Sweden<e_enamex>.
+	   The last time <b_enamex type="PERSON">Prinosil<e_enamex> was in an ATP Final was when he won in
+<b_enamex type="LOCATION">Ostrava<e_enamex> in <b_timex type="DATE">1996<e_timex>.

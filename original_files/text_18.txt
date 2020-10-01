@@ -1,0 +1,54 @@
+Questions linger <b_timex type="DURATION">two decades<e_timex> after assassination in <b_enamex type="LOCATION">Italy<e_enamex>
+<b_enamex type="LOCATION">ROME<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_timex type="DURATION">Twenty years<e_timex> after terrorists kidnapped former
+Premier <b_enamex type="PERSON">Aldo Moro<e_enamex> and left his bullet-riddled body in the back of a
+parked car, <b_numex type="CARDINAL">one<e_numex> question still haunts <b_enamex type="LOCATION">Italy<e_enamex>: Could he have been
+saved?
+	   The anniversary of the kidnapping is being marked by television
+programs, new books, a play and published interviews with convicted
+members of the <b_enamex type="ORGANIZATION">Red Brigades<e_enamex> who took part in the crime.
+	   But the ex-terrorists have only added fuel to the debate about
+the assassination, which became the defining moment in <b_enamex type="LOCATION">Italy<e_enamex>'s
+reign of terrorism in the <b_timex type="DATE">1970s<e_timex> and early <b_timex type="DATE">80s<e_timex>.
+	   <b_enamex type="PERSON">Moro<e_enamex> was abducted in <b_enamex type="LOCATION">Rome<e_enamex> on <b_timex type="DATE">March 16, 1978<e_timex>, in an ambush that
+killed <b_numex type="CARDINAL">five<e_numex> of his bodyguards. His body turned up <b_timex type="DURATION">55 days<e_timex> later in
+a car parked around the corner from the headquarters of both the
+<b_enamex type="ORGANIZATION">Christian Democrat<e_enamex> and <b_enamex type="ORGANIZATION">Communist<e_enamex> parties.
+	   <b_enamex type="PERSON">Moro<e_enamex> had just negotiated an agreement for the <b_enamex type="ORGANIZATION">Communists<e_enamex> and
+<b_enamex type="ORGANIZATION">Christian Democrats<e_enamex>, the leading political forces in <b_enamex type="LOCATION">Italy<e_enamex> at that
+time, to collaborate.
+	   It was a historic agreement, a break with the long-standing
+policy backed by the <b_enamex type="LOCATION">United States<e_enamex> to keep <b_enamex type="LOCATION">Western Europe<e_enamex>'s largest
+<b_enamex type="ORGANIZATION">communist<e_enamex> party away from power.
+	   Those political parties no longer exist, done in by scandals and
+an end to the Cold War that also took the bite out of the
+ideological divisions that so marked Italian society during the
+years of bullets and bombs.
+	   The kidnapping and slaying stiffened <b_enamex type="LOCATION">Italy<e_enamex>'s resolve to fight
+domestic terrorism, marking the beginning of the end to urban
+guerrilla gangs in the country.
+	   Then-premier <b_enamex type="PERSON">Giulio Andreotti<e_enamex>, like <b_enamex type="PERSON">Moro<e_enamex> a <b_enamex type="ORGANIZATION">Christian Democrat<e_enamex>
+and now on trial on charges of favoring the <b_enamex type="ORGANIZATION">mafia<e_enamex>, insisted earlier
+this month that the government did everything it could.
+	   ``To free <b_enamex type="PERSON">Moro<e_enamex>, we activated everybody, including the armed
+forces,'' <b_enamex type="PERSON">Andreotti<e_enamex> said in a roundtable organized by the <b_enamex type="ORGANIZATION">Corriere
+della Sera<e_enamex> newspaper.
+	   The government stuck to hard-line policy, refusing any
+compromise, such as freeing terrorist prisoners despite <b_enamex type="PERSON">Moro<e_enamex>'s
+increasingly desperate pleas.
+	   <b_enamex type="PERSON">Mario Moretti<e_enamex>, convicted as the triggerman, was quoted as saying
+that ``just a signal, the recognition of the existence of political
+prisoners'' would have been enough.
+	   ``Instead, no one knew the right thing to do and we made a
+mistake. We all made a mistake,'' he was quoted as saying by the
+weekly <b_enamex type="ORGANIZATION">Vita<e_enamex>.
+	   But <b_enamex type="PERSON">Anna Braghetti<e_enamex>, another former <b_enamex type="ORGANIZATION">Red Brigade<e_enamex> member, gave a
+different version, saying the decision to kill <b_enamex type="PERSON">Moro<e_enamex> came after a
+poll among <b_numex type="CARDINAL">200<e_numex> members of the gang.
+	   The group could not justify sparing <b_enamex type="PERSON">Moro<e_enamex>'s life, given that the
+government was not compromising and so many of his bodyguards were
+killed in an attempt to kidnap him, <b_enamex type="PERSON">Braghetti<e_enamex> was quoted as saying
+by <b_enamex type="ORGANIZATION">Corriere della Sera<e_enamex>.
+	   Attempts to close the dark chapter of the ``years of lead'' _ as
+the terrorist period is called _ by an amnesty for those convicted
+of terrorist crimes have been stalled in parliament. Opposition is
+strong to clemency for ``blood crimes'' like the <b_enamex type="PERSON">Moro<e_enamex> killing.

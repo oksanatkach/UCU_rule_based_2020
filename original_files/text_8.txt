@@ -1,0 +1,12 @@
+Indian golfer moves ahead of Americans
+<b_enamex type="LOCATION">CALCUTTA<e_enamex>, <b_enamex type="LOCATION">India<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="PERSON">Firoz Ali<e_enamex> of <b_enamex type="LOCATION">India<e_enamex> shot a third-round
+<b_numex type="CARDINAL">five<e_numex> under par <b_timex type="DATE">Saturday<e_timex> to move ahead of the Americans who
+dominated the first <b_numex type="CARDINAL">two<e_numex> rounds and take a <b_numex type="MEASURE">3-stroke<e_numex> lead in the <b_numex type="MONEY">dlrs
+300,000<e_numex> Classic India Open.
+	   Though it put him in the lead, <b_enamex type="PERSON">Ali<e_enamex>'s round of <b_numex type="CARDINAL">67<e_numex> could not match
+the <b_numex type="CARDINAL">64<e_numex> by Canadian <b_enamex type="PERSON">Rick Todd<e_enamex>, which was just <b_numex type="CARDINAL">one<e_numex> stroke off the
+course record at the <b_enamex type="ORGANIZATION">Royal Calcutta Golf Club<e_enamex>.
+	   Following <b_enamex type="PERSON">Ali<e_enamex>'s total of <b_numex type="CARDINAL">204<e_numex> was <b_enamex type="PERSON">Dean Wilson<e_enamex> with <b_numex type="CARDINAL">207<e_numex>, and <b_enamex type="PERSON">Tim
+Straub<e_enamex> and <b_enamex type="PERSON">Scott Rowe<e_enamex> with <b_numex type="CARDINAL">208<e_numex>.
+	   ``<b_enamex type="PERSON">Firoz<e_enamex> played spectacularly today and if he plays another round
+like that tomorrow, it will be difficult to catch him,'' said <b_enamex type="PERSON">Dean<e_enamex>.

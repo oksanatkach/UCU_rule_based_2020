@@ -1,0 +1,16 @@
+<b_numex type="CARDINAL">One<e_numex> hurt in blast in northern <b_enamex type="LOCATION">Israel<e_enamex>
+<b_enamex type="LOCATION">JERUSALEM<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ A man was injured <b_timex type="DATE">Saturday<e_timex> in an explosion at
+the bus station in the small northern Israeli town of <b_enamex type="LOCATION">Afula<e_enamex>, police
+said. <b_enamex type="LOCATION">Israel<e_enamex> radio said said the man's injuries were serious.
+	   He was seen handling a cardboard box when there was a sudden
+explosion, injuring him in the hands and eyes, the radio said.
+	   The man was taken to a hospital and the police were
+investigating. No further details were immediately available.
+	   The <b_enamex type="LOCATION">Afula<e_enamex> bus station was the scene of a major terror attack in
+<b_timex type="DATE">April 1994<e_timex>, when a car rigged with explosives blew up, killing <b_numex type="CARDINAL">nine<e_numex>
+people and injuring <b_numex type="CARDINAL">45<e_numex>. The militant Muslim group <b_enamex type="ORGANIZATION">Hamas<e_enamex> claimed
+responsibility.
+	   When <b_timex type="DATE">Saturday<e_timex>'s blast occurred, however, the station was almost
+deserted. There is no public transport in most Israeli cities on
+the <b_timex type="DATE" alt="Sabbath">Jewish Sabbath<e_timex>, which begins at <b_timex type="TIME">sundown<e_timex> <b_timex type="DATE">Friday<e_timex> and ends at
+<b_timex type="TIME">sundown<e_timex> on <b_timex type="DATE">Saturday<e_timex>.

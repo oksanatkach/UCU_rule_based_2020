@@ -1,0 +1,31 @@
+Welshman takes <b_numex type="MEASURE">one-stroke<e_numex> lead in Kenya Open
+<b_enamex type="LOCATION">NAIROBI<e_enamex>, <b_enamex type="LOCATION">Kenya<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ Welshman <b_enamex type="PERSON">Mark Litton<e_enamex> hit a brilliant round
+of <b_numex type="MEASURE">six-under-par<e_numex> <b_numex type="CARDINAL">65<e_numex> <b_timex type="DATE">Saturday<e_timex> to take a <b_numex type="MEASURE">one-stroke<e_numex> lead in the third
+round of the Tusker Kenya Open at the <b_numex type="MEASURE">71-par<e_numex> <b_enamex type="ORGANIZATION">Muthaiga Golf Club<e_enamex>.
+	   <b_enamex type="PERSON">Litton<e_enamex> dropped a shot in the <b_numex type="MEASURE">377-meter<e_numex> (<b_numex type="MEASURE">413-yard<e_numex>) <b_numex type="MEASURE">par-four<e_numex> first
+hole, but recovered to sink a birdie <b_numex type="CARDINAL">two<e_numex> in the second hole before
+playing level par on the <b_numex type="MEASURE">par-four<e_numex> third in a round that featured
+<b_numex type="CARDINAL">seven<e_numex> birdies.
+	   <b_enamex type="PERSON">Litton<e_enamex>'s playing partner, Kenyan <b_enamex type="PERSON">Jacob Okello<e_enamex>, was tied for
+second with Argentine <b_enamex type="PERSON">Ricardo Gonzalez<e_enamex> on <b_numex type="MEASURE">10-under-par<e_numex> <b_numex type="CARDINAL">203<e_numex> after
+the <b_numex type="CARDINAL">three<e_numex> rounds, a shot behind the leader.
+	   ``It's a good test, and if you drive well things work out just
+fine,'' <b_enamex type="PERSON">Litton<e_enamex> said. ``I've had a wonderful partnership with <b_enamex type="PERSON">Okello<e_enamex>
+and I just hope I play the same in the final round.''
+	   <b_enamex type="PERSON">Okello<e_enamex>, <b_numex type="MEASURE">26<e_numex>, said he was pleased by his putting in the third
+round. ``I got a few tips from my fellow Kenyan professionals and
+my putting has improved, although the fairways have been a bit
+difficult,'' he said.
+	   Third on <b_numex type="MEASURE">seven-under-par<e_numex> <b_numex type="CARDINAL">206<e_numex> after the third round was <b_enamex type="LOCATION">England<e_enamex>'s
+<b_enamex type="PERSON">John Mellor<e_enamex>. <b_numex type="CARDINAL">Four<e_numex> players finished the round on <b_numex type="MEASURE">six-under-par<e_numex> <b_numex type="CARDINAL">207<e_numex>.
+	   <b_numex type="CARDINAL">Fifty-six<e_numex> of the <b_numex type="CARDINAL">146<e_numex> players who teed off <b_timex type="DATE">Thursday<e_timex> made the cut
+<b_timex type="DATE">Friday<e_timex>, which was <b_numex type="MEASURE">two-over-par<e_numex> <b_numex type="CARDINAL">144<e_numex>.
+	   The sixth hole is the longest on the <b_numex type="MEASURE">6,250-meter<e_numex> (<b_numex type="MEASURE">6,836-yard<e_numex>)
+<b_enamex type="ORGANIZATION">Muthaiga<e_enamex> course where the fourth and final round will be played
+<b_timex type="DATE">Sunday<e_timex>.
+	   The Kenya Open is a round of the European Challenge Tour. The
+leading <b_numex type="CARDINAL">15<e_numex> players in the tour rankings at the end of the season
+will earn full European Tour membership for the <b_timex type="DATE">1999<e_timex> season.
+	   Past tournament winners include <b_enamex type="PERSON">Seve Ballesteros<e_enamex>, <b_enamex type="PERSON">Jose Maria
+Canizares<e_enamex> and <b_enamex type="PERSON">Ian Woosnam<e_enamex>.
+	   (em-kjd)

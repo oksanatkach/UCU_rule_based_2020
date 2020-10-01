@@ -1,0 +1,25 @@
+Russian show of power in World Cup finale
+<b_enamex type="LOCATION">OSLO<e_enamex>, <b_enamex type="LOCATION">Norway<e_enamex> (<b_enamex type="ORGANIZATION">AP<e_enamex>) _ <b_enamex type="LOCATION">Russia<e_enamex>'s <b_enamex type="PERSON">Alexey Prokurorov<e_enamex> had no real
+challengers as he won the <b_numex type="MEASURE">50-kilometer<e_numex> classical-style cross
+country World Cup race in <b_enamex type="LOCATION">Holmenkollen<e_enamex> <b_timex type="DATE">Saturday<e_timex>, clocking <b_timex type="DURATION">2 hours,
+32 minutes, 25.3 seconds<e_timex>.
+	   <b_numex type="CARDINAL">Four<e_numex> Norwegians chased behind, but <b_enamex type="PERSON">Odd Bjorn Hjelmeseth<e_enamex>, <b_enamex type="PERSON">Bjorn
+Dahlie<e_enamex>, <b_enamex type="PERSON">Anders Aukland<e_enamex> and <b_enamex type="PERSON">Erling Jevne<e_enamex> had to settle with second
+to fifth places. <b_enamex type="PERSON">Prokurorov<e_enamex> was <b_timex type="DURATION">1:18.9<e_timex> ahead of <b_enamex type="PERSON">Hjelmeseth<e_enamex>.
+	   <b_enamex type="PERSON">Thomas Alsgaard<e_enamex> of <b_enamex type="LOCATION">Norway<e_enamex> clinched the World Cup <b_timex type="DATE">Wednesday<e_timex> in
+<b_enamex type="LOCATION">Sweden<e_enamex> and he had nothing to go for in the <b_numex type="MEASURE">50K<e_numex>, finishing 20th. He
+had <b_numex type="CARDINAL">801<e_numex> points in the final overall standings.
+	   <b_enamex type="PERSON">Dahlie<e_enamex>, who became the winningest Winter Olympian in history at
+<b_enamex type="LOCATION">Nagano<e_enamex> last month, finished second with <b_numex type="CARDINAL">678<e_numex> points. No other skier
+has more World Cup race wins than <b_enamex type="PERSON">Dahlie<e_enamex>, a <b_numex type="MEASURE">five-time<e_numex> overall
+champion.
+	   <b_enamex type="LOCATION">Russia<e_enamex>'s <b_enamex type="PERSON">Larissa Lazutina<e_enamex> won the women's overall title
+comfortably when she defeated teammate <b_enamex type="PERSON">Svetlana Nageykina<e_enamex> by <b_timex type="DURATION">2:23.9<e_timex>
+in the <b_numex type="MEASURE">30K<e_numex> classical-style race. <b_enamex type="PERSON">Lazutina<e_enamex> finished in <b_timex type="DURATION">1:41.41.2<e_timex>.
+She topped the final standings with <b_numex type="CARDINAL">773<e_numex> points.
+	   <b_enamex type="PERSON">Anita Moen-Guidon<e_enamex> of <b_enamex type="LOCATION">Norway<e_enamex> was third, <b_timex type="DURATION">2:28.6<e_timex> behind <b_enamex type="PERSON">Lazutina<e_enamex>,
+and <b_enamex type="LOCATION">Russia<e_enamex>'s <b_enamex type="PERSON">Julia Chepalova<e_enamex> fourth, <b_timex type="DURATION">2:53.5<e_timex> behind.
+	   Taking a fifth in the <b_numex type="MEASURE">30K<e_numex>, <b_enamex type="PERSON">Bente Martinsen<e_enamex> of <b_enamex type="LOCATION">Norway<e_enamex> secured
+second place overall with <b_numex type="CARDINAL">631<e_numex> points. <b_enamex type="LOCATION">Italy<e_enamex>'s <b_enamex type="PERSON">Stefania Belmondo<e_enamex>,
+who placed 11th, secured third overall with <b_numex type="CARDINAL">558<e_numex> points.
+	   (kk-sn)
