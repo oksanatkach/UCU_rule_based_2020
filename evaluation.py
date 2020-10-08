@@ -11,15 +11,16 @@ def coords2lst(annotations):
     return coords
 
 
-def process_file(text_path, ann_path):
+def process_file(text_path, ann_path, eval_dict):
     text = open(text_path, 'r').read()
-    matches = get_NERs(text)
+    doc, matches = get_NERs(text)
     annotations = json.load(open(ann_path, 'r'))
 
     true_chars = coords2lst(annotations)
+    # print(true_chars)
     true_chars_flat = set([ char for label in true_chars for char in true_chars[label] ])
     all_chars = set(range(0, len(text)))
-    chars_not_true = all_chars - true_chars_flat
+    # chars_not_true = all_chars - true_chars_flat
     pred_chars = { label: set() for label in annotations.keys() }
 
     for match in matches:
@@ -32,46 +33,76 @@ def process_file(text_path, ann_path):
     pred_chars_flat = set([ char for label in pred_chars for char in pred_chars[label] ])
     chars_not_pred = all_chars - pred_chars_flat
 
-    #@todo: count fp, tp, fn, tn
-    # the code above prepared four sets of characters:
-    # 1. true_chars - a dictionary this characters that belong to each true class (from the annotated, golden corpus)
-    # 2. pred_chars - a dictionary this characters that belong to each predicted class (what our model predicted)
-    # 3. chars_not_true - a set of characters that were not annotated by any entity (the O class)
-    # 4. chars_not_pred - a set of characters that our model classified as O
+    for label in pred_chars:
+        chars_not_true = all_chars - true_chars[label]
+        chars_not_pred = all_chars - pred_chars[label]
 
-    tp = 0
-    fp = 0
-    tn = 0
-    fn = 0
+        eval_dict[label]['tp'] += len(pred_chars[label].intersection(true_chars[label]))
 
-    return tp, fp, tn, fn
+        eval_dict[label]['fp'] += len(pred_chars[label] - true_chars[label])
+
+        eval_dict[label]['tn'] += len(chars_not_true.intersection(chars_not_pred))
+
+        eval_dict[label]['fn'] += len(chars_not_pred.intersection(true_chars[label]))
+
+        print(eval_dict[label]['tp'] + eval_dict[label]['fp'] + eval_dict[label]['tn'] + eval_dict[label]['fn'])
+
+    return eval_dict
 
 
 def process_all(num):
-    tp = 0
-    fp = 0
-    tn = 0
-    fn = 0
+    eval_dict = {
+        'LOCATION': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'ORGANIZATION': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'CARDINAL': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'DATE': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'PERSON': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'DURATION': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'PERCENT': {'tp':0, 'fp':0, 'tn':0, 'fn':0},
+        'MONEY': {'tp':0, 'fp':0, 'tn':0, 'fn':0}
+    }
+    metrics_dict = {
+        'LOCATION': {},
+        'ORGANIZATION': {},
+        'CARDINAL': {},
+        'DATE': {},
+        'PERSON': {},
+        'DURATION': {},
+        'PERCENT': {},
+        'MONEY': {},
+    }
 
     for ind in range(num):
         text_path = 'dataset/plain_text/text_' + str(ind+1) + '.txt'
         ann_path = 'dataset/annotations/annotations_' + str(ind+1) + '.json'
-        this_tp, this_fp, this_tn, this_fn = process_file(text_path, ann_path)
-        tp += this_tp
-        fp += this_fp
-        tn += this_tn
-        fn += this_fn
 
-    #@todo: calculate metrics according to the formulars
-    accuracy = 0 # a formula should be here!
-    recall = 0
-    precision = 0
-    f_1 = 0
+        eval_dict = process_file(text_path, ann_path, eval_dict)
 
-    print(accuracy)
-    print(recall)
-    print(precision)
-    print(f_1)
+    for label in metrics_dict:
+        print(label)
+        tp = eval_dict[label]['tp']
+        fp = eval_dict[label]['fp']
+        tn = eval_dict[label]['tn']
+        fn = eval_dict[label]['fn']
+
+        accuracy = (tp+tn) / (tp+tn+fp+fn)
+        if tp+fn == 0:
+            recall = 0
+        else:
+            recall = tp / (tp+fn)
+        if tp+fp == 0:
+            precision = 0
+        else:
+            precision = tp / (tp+fp)
+        if precision + recall == 0:
+            f_1 = 0
+        else:
+            f_1 = 2 * ((precision*recall) / (precision + recall))
+
+        print('Accuracy: ' + str(accuracy))
+        print('Recall: ' + str(recall))
+        print('Precision: ' + str(precision))
+        print('F1: ' + str(f_1))
 
 if __name__ == '__main__':
     # process_all(23)
