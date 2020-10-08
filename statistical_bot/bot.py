@@ -7,10 +7,11 @@ class Bot:
     def __init__(self):
         self.bot = 'Bot: '
         self.user = 'You: '
-        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
-        self.DIALOGFLOW_PROJECT_ID = ''
+        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'ucu-test-ceriuu-5ece8310f3bc.json'
+        self.DIALOGFLOW_PROJECT_ID = 'ucu-test-ceriuu'
         self.LANG_CODE = 'en'
         self.SESSION_ID = 'me'
+        self.launch()
 
     def check_intent(self, text2analyze):
         session_client = dialogflow.SessionsClient()
@@ -39,6 +40,8 @@ class Bot:
 
     def get_response(self, user_text):
         intent, response = self.check_intent(user_text)
+        if intent == 'book_flight':
+            return
         return response
 
     def goodbye_response(self):
